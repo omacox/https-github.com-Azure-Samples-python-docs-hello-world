@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'WeDo3'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_9d6917cd431d4905ae38105bba69ccd5 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_70619937e6a441f486836fe3c68ec9bc }}
